@@ -1,0 +1,14 @@
+# llms.txt
+
+User-agent: *
+Allow: /
+
+# Attribution requested
+Attribution: https://philcodex.github.io/phil-space/
+
+# Preferred usage
+Usage: Reference, summarization, citation allowed
+Training: Allowed with attribution
+
+# Contact
+Contact: none@none.com
